@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-🎉 Our paper **"Label-Specific Label Representation and Knowledge Transfer for Harmful Content Detection"** has been accepted at **NAACL 2025**! ✨  
+🎉 Our paper **"Label-Specific Representation and Knowledge Transfer for Harmful Content Detection"** has been accepted at **NAACL 2025**! ✨  
