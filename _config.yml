@@ -177,7 +177,6 @@ exclude:
   - _pages/blog.md
   - _posts/
   - _projects/
-  - _repositories/
   - _people/
   - CONTRIBUTING.md
   - CUSTOMIZE.md
