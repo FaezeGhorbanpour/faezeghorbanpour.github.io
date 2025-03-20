@@ -1,12 +1,11 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+title: Teaching
+description: 
 nav: true
 nav_order: 6
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+We have several open **Master's and Bachelor's thesis projects** in our group (including some with me). Don't hesitate to check them out on [this page](https://www.cs.cit.tum.de/dast/lehre/projects/)!  
 
-Organize your courses by years, topics, or universities, however you like!
