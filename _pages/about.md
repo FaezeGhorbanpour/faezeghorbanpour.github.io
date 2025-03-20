@@ -6,7 +6,7 @@ subtitle: Machine Learning Researcher
 
 profile:
   align: left
-  image: faeze_2.jpg
+  image: 
   image_circular: true # crops the image to make it circular
   more_info:  
 

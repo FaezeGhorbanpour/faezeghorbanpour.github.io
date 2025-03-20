@@ -8,23 +8,39 @@
     "summary": "Highly motivated ",
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "Linkedin",
+        "username": "FaezeGhorbanpour",
+        "url": "https://linkedin.com/FaezeGhorbanpour"
+      },
+      {
+        "network": "X",
+        "username": "FaezeGhorbanpor",
+        "url": "https://x.com/FaezeGhorbanpor"
       }
     ]
   },
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
+      "institution": "Technical University of Munich",
+      "location": "Munich, Germany",
+      "url": "",
+      "area": "Computer Science",
       "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
+      "startDate": "2023-09-01",
+      "endDate": "Present",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Sharif University of Technology",
+      "location": "Tehran, Iran",
+      "url": "",
+      "area": "Computer Engineering",
+      "studyType": "PhD",
+      "startDate": "2023-09-01",
+      "endDate": "Present",
+      "score": "",
+      "courses": []
     }
   ],
   "work": [
