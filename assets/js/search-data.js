@@ -429,19 +429,19 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-i-started-my-phd-at-cis-lmu-munich-under-supervision-of-prof-alex-fraser-and-dr-viktor-hangya-doing-research-on-nlp-efficient-transfer-learning-and-hate-speech-detection",
-          title: 'I started my PhD at CIS, LMU Munich, under supervision of Prof. Alex...',
-          description: "",
-          section: "News",},{id: "news-",
-          title: '',
-          description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
+            },},{id: "news-a-long-announcement-with-details",
           title: 'A long announcement with details',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/sample/";
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+          description: "",
+          section: "News",},{id: "news-i-started-my-phd-at-cis-lmu-munich-under-supervision-of-prof-alex-fraser-and-dr-viktor-hangya-doing-research-on-nlp-efficient-transfer-learning-and-hate-speech-detection",
+          title: 'I started my PhD at CIS, LMU Munich, under supervision of Prof. Alex...',
+          description: "",
+          section: "News",},{id: "news-",
+          title: '',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
