@@ -175,6 +175,7 @@ include: ["_pages", "_scripts"]
 exclude:
   - bin/
   - _pages/blog.md
+  - _pages/dropdown.md
   - _posts/
   - _projects/
   - _people/
