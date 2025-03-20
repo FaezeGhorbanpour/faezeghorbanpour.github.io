@@ -10,8 +10,8 @@
   type: time_table
   contents:
     - title: PhD
-      institution: Technical University of Munich
-      year: 1905
+      institution: Technical University of Munich, Munich, Germany
+      year: 2026 (Probably!)
       description:
         - Description 1.
         - Description 2.
@@ -19,15 +19,15 @@
           contents:
             - Sub-description 1.
             - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+    - title: Master of Science
+      institution: Sharif University of Technology, Tehran, Iran
+      year: 2021
       description:
         - Description 1.
         - Description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+    - title: Bacholor of Science
+      institution: Sharif University of Technology, Tehran, Iran
+      year: 2018
       description:
         - Description 1.
         - Description 2.
@@ -35,9 +35,9 @@
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Machine Learning Specialist
+      institution: Sotoon Company (Hezardastan)
+      year: 2019-2022
       description:
         - Description 1.
         - Description 2.
@@ -45,7 +45,7 @@
           contents:
             - Sub-description 1.
             - Sub-description 2.
-    - title: Visiting Professor
+    - title: Data
       institution: California Institute of Technology, Pasadena, California, US
       year: 1933
       description:
