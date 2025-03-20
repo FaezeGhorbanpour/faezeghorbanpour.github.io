@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I started my PhD at CIS, LMU Munich, under supervision of Prof. Alex Fraser and Dr. Viktor Hangya. doing research on NLP, efficient transfer learning and Hate speech detection.
+I started my **PhD at [CIS, LMU Munich](https://www.cis.lmu.de/en/)** under the supervision of **Prof. Alex Fraser** and **Dr. Viktor Hangya**, working on **NLP, efficient transfer learning, and hate speech detection**.
