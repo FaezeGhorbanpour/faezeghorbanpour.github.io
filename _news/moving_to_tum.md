@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I have moved to the **TUM campus in Heilbronn** and officially started my **PhD at [TUM Munich](https://www.tum.de/en/)**
+I have moved to the **TUM campus in Heilbronn**, and after a year and two months as a **PhD student at [LMU Munich](https://www.lmu.de/en/)**, I am now a **PhD student at [TUM Munich](https://www.tum.de/en/)**.  
