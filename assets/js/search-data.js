@@ -14,7 +14,7 @@ ninja.data = [{
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/blog/";
+            window.location.href = "/_pages/blog/index.html";
           },
         },{id: "nav-publications",
           title: "publications",
@@ -63,14 +63,14 @@ ninja.data = [{
               description: "",
               section: "Dropdown",
               handler: () => {
-                window.location.href = "/books/";
+                window.location.href = "";
               },
             },{id: "dropdown-blog",
               title: "blog",
               description: "",
               section: "Dropdown",
               handler: () => {
-                window.location.href = "/blog/";
+                window.location.href = "";
               },
             },{id: "post-a-post-with-image-galleries",
       
@@ -429,19 +429,23 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/sample/";
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
+          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+          description: "",
+          section: "News",},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
+          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+          description: "",
+          section: "News",},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
+          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+          description: "",
+          section: "News",},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
           section: "News",},{id: "news-i-started-my-phd-at-cis-lmu-munich-under-supervision-of-prof-alex-fraser-and-dr-viktor-hangya-doing-research-on-nlp-efficient-transfer-learning-and-hate-speech-detection",
           title: 'I started my PhD at CIS, LMU Munich, under supervision of Prof. Alex...',
           description: "",
-          section: "News",},{id: "news-",
-          title: '',
+          section: "News",},{id: "news-our-research-paper",
+          title: 'Our research paper',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
@@ -501,6 +505,13 @@ ninja.data = [{
         section: 'Socials',
         handler: () => {
           window.open("https://www.linkedin.com/in/faeze-ghorbanpour/", "_blank");
+        },
+      },{
+        id: 'social-orcid',
+        title: 'ORCID',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://orcid.org/0009-0006-0570-4439", "_blank");
         },
       },{
         id: 'social-scholar',
