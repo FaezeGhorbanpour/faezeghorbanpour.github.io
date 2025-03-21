@@ -1,10 +1,9 @@
 {
   "basics": {
     "name": "Faeze Ghorbanpour",
-    "label": "Machine Learning Researcher",
+    "label": "PhD Student, Machine Learning Researcher",
     "image": "",
     "email": "[firstname.lastname]@[tum or lmu].de",
-    "url": "https://faezeghorbanpopur.github.io/",
     "summary": "Highly motivated machine learning researcher with a particular focus on <b>natural language processing, efficient transfer learning and computational social science.</b>",
     "profiles": [
       {
@@ -56,6 +55,16 @@
   ],
   "work": [
     {
+      "name": "Center for Information and Language Processing",
+      "position": "Machine Learning Researcher",
+      "location": "Munich, Germany",
+      "url": "https://www.cis.uni-muenchen.de/",
+      "startDate": "2023",
+      "endDate": "20..",
+      "summary": "Doing research on NLP, Transfer Learning, Efficient LM, and Hate Speech Detection",
+      "highlights": []
+    },
+    {
       "name": "Sotoon Company",
       "position": "Machine Learning Specialist",
       "location": "Tehran, Iran",
@@ -84,16 +93,18 @@
         "Efficient Transfer Learning",
         "Efficient Language Models",
         "Low Resource NLP",
-        "Multilingual NLP"
+        "Multilingual NLP",
+        "Applied NLP"
       ]
     },{
       "name": "Computational Social Science",
       "icon": "fa-solid fa-tag",
       "keywords": [
         "Hate Speech Detection",
+        "Fake News Detection",
         "Computational Argumentation",
         "Human Behavior, Psychology & Emotion",
-        "Agents for Human Behavior"
+        "Agents for Human Behavior Modeling"
       ]
     }
   ],
