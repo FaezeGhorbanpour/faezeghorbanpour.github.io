@@ -5,7 +5,7 @@
     "image": "",
     "email": "[firstname.lastname]@[tum or lmu].de",
     "url": "https://faezeghorbanpopur.github.io/",
-    "summary": "Highly motivated ",
+    "summary": "Highly motivated machine learning researcher with a particular focus on <b>natural language processing, efficient transfer learning and computational social science.</b>",
     "profiles": [
       {
         "network": "Linkedin",
@@ -26,7 +26,7 @@
       "url": "",
       "area": "Computer Science",
       "studyType": "PhD",
-      "startDate": "2023-09-01",
+      "startDate": "2023",
       "endDate": "Present",
       "score": "",
       "courses": []
@@ -37,8 +37,8 @@
       "url": "https://en.sharif.ir/",
       "area": "Computer Engineering",
       "studyType": "MSc",
-      "startDate": "2018-09-01",
-      "endDate": "2021-05-30",
+      "startDate": "2018",
+      "endDate": "2021",
       "score": "",
       "courses": []
     },
@@ -48,24 +48,33 @@
       "url": "https://en.sharif.ir/",
       "area": "Computer Engineering",
       "studyType": "BSc",
-      "startDate": "2014-09-01",
-      "endDate": "2018-08-31",
+      "startDate": "2014",
+      "endDate": "2018",
       "score": "",
       "courses": []
     }
   ],
   "work": [
     {
-      "name": "Sotoon",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "name": "Sotoon Company",
+      "position": "Machine Learning Specialist",
+      "url": "https://www.linkedin.com/company/sotoon/",
+      "startDate": "2019",
+      "endDate": "2022",
+      "summary": "As a member of the <b>NLP team</b> at the Sotoon Company's AI division, I worked on many NLP tasks, analyzing, modeling, and classifying. Most of the products we offer are commissioned by other businesses (B2B), such as <b>comment rejector (Auto reject)</b>, <b>ticket auto-answering (Auto reply)</b>, and <b>automatic text classification (Auto ML)</b>.",
+      "highlights": []
+    },
+    {
+      "name": "Shaya Smart Solutions",
+      "position": "Machine Learning Engineer",
+      "url": "https://www.linkedin.com/company/shaya-smart-solutions/",
+      "startDate": "2018",
+      "endDate": "2019",
+      "summary": "I was a member of the <b>NLP team</b> at this firm and worked on Persian language processing products, such as <b>a Persian verb analyzer</b> and <b>a text extractor  from PDF files</b>, and these projects are currently supporting other larger services being undertaken by the company.",
+      "highlights": []
     }
   ],
-  "awards": [
+  "honors": [
     {
       "title": "Nobel Prize in Physics",
       "date": "1921-11-01",
@@ -76,16 +85,40 @@
   ],
   "skills": [
     {
-      "name": "Physics",
+      "name": "Programming Languages",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Python", "Java",
+        "C/C++", "R",
+        "Matlab", "C#"
+      ]
+    },
+    {
+      "name": "Packages and Libraries",
+      "level": "Master",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "Pytorch", "Transformers", "Keras", "Scipy",
+        "Tensorflow", "NLTK", "Spacy"
+      ]
+    },
+    {
+      "name": "Data Management Tools",
+      "level": "Master",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "MySQL", "Apache Spark", "ElasticSearch",
+        "MongoDB", "DynamoDB"
+      ]
+    },
+    {
+      "name": "Software/Web Engineering Tools",
+      "level": "Master",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "Docker", "AWS Lambda", "Flask", "Django", "Fast APT",
+        "HTML", "JavaScript", "CSS", "GIT", "DVC"
       ]
     }
   ],
@@ -96,23 +129,8 @@
       "icon": ""
     },
     {
-      "language": "Farsi",
+      "language": "Persian",
       "fluency": "Native speaker",
-      "icon": ""
-    },
-    {
-      "language": "Azerbaijani",
-      "fluency": "Native speaker",
-      "icon": ""
-    },
-    {
-      "language": "German",
-      "fluency": "Learning",
-      "icon": ""
-    },
-    {
-      "language": "Turkish",
-      "fluency": "Learning",
       "icon": ""
     }
   ],
