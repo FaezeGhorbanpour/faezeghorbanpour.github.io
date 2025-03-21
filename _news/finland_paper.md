@@ -5,6 +5,6 @@ inline: true
 related_posts: false
 ---
 
-Our research paper on **analyzing communication acts during crises** will be presented at **ASONAM 2024**! This work is from my **internship at Aalto University**.  
+Our research paper on **analyzing communication acts during crises** will be presented at **ASONAM 2024**! This work is from my **internship at Aalto University**, Finaland.  
 
 

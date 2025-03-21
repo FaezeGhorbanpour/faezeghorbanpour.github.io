@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-🎉 Our paper **"Differentiating Emigration and Return Migration"** has been accepted at **ICWSM 2025**! ✨ This work is from my research visit at **[MPIDR](https://www.demogr.mpg.de/en)**.
+🎉 Our paper **"Differentiating Emigration and Return Migration"** has been accepted at **ICWSM 2025**! ✨ This work is from my research visit at **[MPIDR](https://www.demogr.mpg.de/en)**, Rostock, Germany.
