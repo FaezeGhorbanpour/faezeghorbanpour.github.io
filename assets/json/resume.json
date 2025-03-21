@@ -27,7 +27,7 @@
       "area": "Computer Science",
       "studyType": "Doctor of Philosophy",
       "startDate": "2023",
-      "endDate": "Present",
+      "endDate": "...",
       "score": "",
       "courses": []
     },
@@ -74,6 +74,27 @@
       "highlights": []
     }
   ],
+  "interests": [
+    {
+      "name": "Natural Language Processing",
+      "icon": "fa-solid fa-tag",
+      "keywords": [
+        "Efficient Transfer Learning",
+        "Efficient Language Models",
+        "Low Resource NLP",
+        "Multilingual NLP"
+      ]
+    },{
+      "name": "Computational Social Science",
+      "icon": "fa-solid fa-tag",
+      "keywords": [
+        "Hate Speech Detection",
+        "Computational Argumentation",
+        "Human Behavior, Psychology & Emotion",
+        "Agents for Human Behavior"
+      ]
+    }
+  ],
   "honors": [
     {
       "title": "PhD Enrance Exam",
@@ -98,6 +119,18 @@
       "date": "2014",
       "awarder": "Sanjesh, Tehran, Iran.",
       "summary": "Achieved a national rank of 178 among 223,401 participants in the Iranian National University Entrance Exam (Konkour) for Bachelor of Science programs."
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Fluent",
+      "icon": ""
+    },
+    {
+      "language": "Persian",
+      "fluency": "Native speaker",
+      "icon": ""
     }
   ],
   "skills": [
@@ -136,39 +169,6 @@
       "keywords": [
         "Docker", "AWS Lambda", "Flask", "Django", "Fast APT",
         "JavaScript", "GIT & DVC"
-      ]
-    }
-  ],
-  "languages": [
-    {
-      "language": "English",
-      "fluency": "Fluent",
-      "icon": ""
-    },
-    {
-      "language": "Persian",
-      "fluency": "Native speaker",
-      "icon": ""
-    }
-  ],
-  "interests": [
-    {
-      "name": "Natural Language Processing",
-      "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Efficient Transfer Learning",
-        "Efficient Language Models",
-        "Low Resource NLP",
-        "Multilingual NLP"
-      ]
-    },{
-      "name": "Computational Social Science",
-      "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Hate Speech Detection",
-        "Computational Argumentation",
-        "Human Behavior, Psychology & Emotion",
-        "Agents for Human Behavior"
       ]
     }
   ]
