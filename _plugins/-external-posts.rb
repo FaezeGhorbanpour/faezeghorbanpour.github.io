@@ -1,3 +1,4 @@
+=begin
 require 'feedjira'
 require 'httparty'
 require 'jekyll'
@@ -108,3 +109,4 @@ module ExternalPosts
 
   end
 end
+=end
