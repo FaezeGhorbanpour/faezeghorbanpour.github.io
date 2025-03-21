@@ -25,7 +25,7 @@
       "location": "Munich, Germany",
       "url": "",
       "area": "Computer Science",
-      "studyType": "PhD",
+      "studyType": "Doctor of Philosophy",
       "startDate": "2023",
       "endDate": "Present",
       "score": "",
@@ -36,7 +36,7 @@
       "location": "Tehran, Iran",
       "url": "https://en.sharif.ir/",
       "area": "Computer Engineering",
-      "studyType": "MSc",
+      "studyType": "Master of Science",
       "startDate": "2018",
       "endDate": "2021",
       "score": "",
@@ -47,7 +47,7 @@
       "location": "Tehran, Iran",
       "url": "https://en.sharif.ir/",
       "area": "Computer Engineering",
-      "studyType": "BSc",
+      "studyType": "Bachelor of Science",
       "startDate": "2014",
       "endDate": "2018",
       "score": "",
@@ -76,11 +76,28 @@
   ],
   "honors": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "title": "PhD Enrance Exam",
+      "date": "2020",
+      "awarder": "Sanjesh, Tehran, Iran",
+      "summary": "Ranked 13th out of 824 candidates attempting the Iranian artificial intelligence Ph.D. exam (Withdrawn)."
+    },
+    {
+      "title": "Master's Degree",
+      "date": "2018",
+      "awarder": "Sharif University of Technology",
+      "summary": "Entering the Sharif University master’s program as an elite student without an entrance exam."
+    },
+    {
+      "title": "Bachelor's Degree",
+      "date": "2018",
+      "awarder": "Sharif University of Technology",
+      "summary": "Ranked in the top 15% of Bachelor students in Computer Engineering at Sharif University of Technology (entrance year: 2014)."
+    },
+    {
+      "title": "Konkour",
+      "date": "2014",
+      "awarder": "Sanjesh, Tehran, Iran.",
+      "summary": "Achieved a national rank of 178 among 223,401 participants in the Iranian National University Entrance Exam (Konkour) for Bachelor of Science programs."
     }
   ],
   "skills": [
@@ -118,7 +135,7 @@
       "icon": "fa-solid fa-hashtag",
       "keywords": [
         "Docker", "AWS Lambda", "Flask", "Django", "Fast APT",
-        "HTML", "JavaScript", "CSS", "GIT", "DVC"
+        "JavaScript", "GIT & DVC"
       ]
     }
   ],
@@ -136,15 +153,22 @@
   ],
   "interests": [
     {
-      "name": "Physics",
+      "name": "Natural Language Processing",
       "icon": "fa-solid fa-tag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Efficient Transfer Learning",
+        "Efficient Language Models",
+        "Low Resource NLP",
+        "Multilingual NLP"
+      ]
+    },{
+      "name": "Computational Social Science",
+      "icon": "fa-solid fa-tag",
+      "keywords": [
+        "Hate Speech Detection",
+        "Computational Argumentation",
+        "Human Behavior, Psychology & Emotion",
+        "Agents for Human Behavior"
       ]
     }
   ]

@@ -29,7 +29,7 @@ latest_posts:
 I am a **PhD student at [TUM Munich](https://www.cit.tum.de/cit/startseite/)**, supervised by **[Prof. Alexander Fraser](https://alexfraser.github.io/)**.  
 I am also a **NLP researcher at [CIS, LMU Munich](https://www.cis.uni-muenchen.de/)** and affiliated with **[MCML](https://mcml.ai/)**.  
 
-Currently, my research focuses on **Efficient Transfer Learning for Hate Speech Detection**, but I am also interested in **Efficient LLMs, Low-Resource NLP, Multilingual NLP, Applied NLP**, and, last but not least, **Computational Social Science**. 
+Currently, my research focuses on **Efficient Transfer Learning for Hate Speech Detection**, but I am also interested in **Efficient Language Models, Low-Resource NLP, Multilingual NLP, Applied NLP**, and, last but not least, **Computational Social Science**. 
 
 I know—that's quite a broad range of topics! 😃 But as an **early-career researcher**, I am highly motivated to explore different areas of **LLMs and NLP** and continuously learn.  
 
